@@ -2,7 +2,9 @@
     background: linear-gradient(rgb(232, 232, 241), rgb(255, 162, 176));
     padding: 40px;
     border-radius: 20px;
+    width: 40%;
     color: rgb(4, 60, 68);
+    
 }
 /* .fullbody{
     background: linear-gradient(rgb(136, 136, 139), rgb(250, 208, 141));

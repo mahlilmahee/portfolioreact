@@ -1,0 +1,38 @@
+.example {
+    transition: all 0.75s;
+  }
+  
+  .example.preEnter,
+  .example.exiting {
+    opacity: 0;
+    transform: scale(0.5);
+  }
+  
+  .example.exited {
+    display: none;
+  }
+  .button2{
+      border: 1px solid green;
+      width: 150px;
+      height: 40px;
+    background-color: grey;
+    border-radius: 10px;
+    color: white;
+  }
+  .button2:hover{
+      background-color: aqua;
+      color: black;
+  }
+  .metoo{
+    background: linear-gradient(rgb(195, 195, 240), rgb(148, 234, 255));
+      width: 80%;
+      margin: 10px auto;
+      padding: 20px;
+      border-radius: 20px;
+      box-shadow: 10px ;
+      color: rgb(255, 84, 5);
+      
+  }
+ .metoo h2{
+    color: rgb(255, 45, 8);
+  }
